@@ -3,7 +3,7 @@ I developed semantic search and personalised recommendation algorithm for book r
 
 [Book Recommendation App Demo](https://clipchamp.com/watch/9gKmng3Q23W)
 
-Contents:
+Main Contents:
   1. [Semantic search and collaborative filtering pipeline functions](https://github.com/chingfhen/Semantic-and-Collaborative-FIltering-Recommendation/blob/main/pipeline.py)
   2. [Semantic search and CF example use](https://github.com/chingfhen/Semantic-and-Collaborative-FIltering-Recommendation/blob/main/Application.ipynb)
   3. [Development and optimization of semantic search algorithm](https://github.com/chingfhen/Semantic-and-Collaborative-FIltering-Recommendation/blob/main/SemanticSearch2%20-%20breaking%20down%20query.ipynb)
