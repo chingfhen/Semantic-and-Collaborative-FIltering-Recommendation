@@ -12,5 +12,5 @@ Contents:
   6. [Recommender Evaluation funtions](https://github.com/chingfhen/Semantic-and-Collaborative-FIltering-Recommendation/blob/main/evaluation.py)
 
 
-I also implemented various other algorithms which did not end in the final application: [Product Quantization](https://github.com/chingfhen/Semantic-and-Collaborative-FIltering-Recommendation/blob/main/Quantization1%20-%20quantization%20of%20summaries.ipynb), [Priority Queue](https://github.com/chingfhen/Semantic-and-Collaborative-FIltering-Recommendation/blob/main/SemanticSearch0%20-%20priority%20queue.ipynb)
+I also implemented various other algorithms which did not end in the final application: [Product Quantization](https://github.com/chingfhen/Semantic-and-Collaborative-FIltering-Recommendation/blob/main/Quantization1%20-%20quantization%20of%20summaries.ipynb), [Priority Queue](https://github.com/chingfhen/Semantic-and-Collaborative-FIltering-Recommendation/blob/main/SemanticSearch0%20-%20priority%20queue.ipynb), [keyword extraction on reviews](https://github.com/chingfhen/Semantic-and-Collaborative-FIltering-Recommendation/blob/main/Mongo3%20-%20load%20keywords%20to%20mongo%20.ipynb)
 
