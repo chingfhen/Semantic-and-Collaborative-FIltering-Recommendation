@@ -2,6 +2,7 @@
 I developed semantic search and personalised recommendation algorithm for book recommendations. This repository contains the backend development codes.
 
 [Book Recommendation App Demo](https://clipchamp.com/watch/9gKmng3Q23W)
+
 [Report Details](https://github.com/chingfhen/Semantic-and-Collaborative-FIltering-Recommendation/blob/main/CZ4125%20Data%20Products%20Report.pdf)
 
 Main Contents:
