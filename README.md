@@ -10,6 +10,8 @@ Additional details:
 
 The semantic retrieval algorithm I developed was extremely efficient because it performs matrix multiplication on genre tags instead of the book documents, dramatically cutting down on the number of comparisons made. Yet, it was accurate because it utilizes contextualized embeddings from a specialised BERT model, Phrase-BERT, that allows lexically dissimilar (and semantically similar) phrases to be matched (e.g. "werewolf" is semantically similar to "historical fantasy" but lexically dissimilar). This algorithm also doubled as a genre detection algorithm which is an added user-friendly feature.
 
+Furthmore, I trained and optimized collaborative filtering models that utilize past user interactions to recommend personalized books.
+
 Contents:
   1. [Semantic search and collaborative filtering pipeline functions](https://github.com/chingfhen/Semantic-and-Collaborative-FIltering-Recommendation/blob/main/pipeline.py)
   2. [Semantic search and CF example use](https://github.com/chingfhen/Semantic-and-Collaborative-FIltering-Recommendation/blob/main/Application.ipynb)
